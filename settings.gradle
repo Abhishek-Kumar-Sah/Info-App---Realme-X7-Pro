@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Spex-Realme X7 Pro"
